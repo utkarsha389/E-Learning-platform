@@ -25,3 +25,11 @@ From a development perspective, the project is set up with best practices in min
 In conclusion, the E-Learning Platform UI provides a robust foundation for building full-fledged online learning applications. It balances aesthetics with functionality, and developer experience with user engagement. Designed with scalability, accessibility, and maintainability in mind, the UI can easily be extended to include features like video streaming, real-time quizzes, assignments, user dashboards, and interactive discussion boards. Whether for academic institutions, ed-tech startups, or personal projects, this UI solution serves as a powerful base to deliver education in the digital age—efficiently, beautifully, and without limits.   
 
 #Output
+
+![Image](https://github.com/user-attachments/assets/a3eea8fd-911e-4724-86eb-f06f3049ccef)
+
+![Image](https://github.com/user-attachments/assets/1a9f03c5-065a-48f9-b85a-45f2fdcc933c)
+
+![Image](https://github.com/user-attachments/assets/117195bc-08c8-491c-9e67-fe89c3245b20)
+
+![Image](https://github.com/user-attachments/assets/633a0472-c5f0-40d9-b275-a3e6545ca8b8)
